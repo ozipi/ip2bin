@@ -10,6 +10,7 @@ A small method to convert an ip from decimal to binary keeping the format x.x.x.
 ## Usage
 
   var ip2bin = require('ip2bin');
+  
   var routerIp = ip2bin('192.168.0.1');
 
   console.log('routerIp', routerIp);
