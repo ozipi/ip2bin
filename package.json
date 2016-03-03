@@ -1,8 +1,8 @@
 {
   "name": "ip2bin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Converts an ip address to a binary form",
-  "main": "ip2bin.js",
+  "main": "src/ip2bin.js",
   "scripts": {
     "test": "make test"
   },
