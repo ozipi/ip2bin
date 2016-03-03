@@ -1,7 +1,7 @@
 ip2bin
 =========
 
-A small method to convert an ip from decimal to binary keeping the format x.x.x.x
+A small method to convert an ipv4 from decimal to binary keeping the format x.x.x.x
 
 ## Installation
 
