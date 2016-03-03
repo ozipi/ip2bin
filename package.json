@@ -1,6 +1,6 @@
 {
   "name": "ip2bin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts an ip address to a binary form",
   "main": "ip2bin.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "Oscar Valdez",
   "license": "MIT",
   "dependencies": {
-    "to-binary": "0.0.1"
+    "to-binary": "*"
   },
   "devDependencies": {
     "chai": "^3.5.0",
