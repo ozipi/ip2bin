@@ -1,4 +1,4 @@
-ip2bin
+ip2bin [![Build Status](https://travis-ci.org/ozipi/ip2bin.svg?branch=master)](https://travis-ci.org/ozipi/ip2bin)
 =========
 
 A small method to convert an ipv4 from decimal to binary keeping the format x.x.x.x
