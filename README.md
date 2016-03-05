@@ -1,4 +1,4 @@
-ip2bin [![Build Status](https://travis-ci.org/ozipi/ip2bin.svg?branch=master)](https://travis-ci.org/ozipi/ip2bin) [![Coverage Status](https://coveralls.io/repos/github/ozipi/ip2bin/badge.svg?branch=master)](https://coveralls.io/github/ozipi/ip2bin?branch=master)
+ip2bin [![npm version](https://img.shields.io/npm/v/ip2bin.svg?style=flat)](https://www.npmjs.com/package/ip2bin) [![Build Status](https://travis-ci.org/ozipi/ip2bin.svg?branch=master)](https://travis-ci.org/ozipi/ip2bin) [![Coverage Status](https://coveralls.io/repos/github/ozipi/ip2bin/badge.svg?branch=master)](https://coveralls.io/github/ozipi/ip2bin?branch=master)
 =========
 
 A small method to convert an ipv4 from decimal to binary keeping the format x.x.x.x
