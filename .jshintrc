@@ -42,7 +42,7 @@
     "strict"        : false,     // Require `use strict` pragma in every file.
     "trailing"      : true,     // Prohibit trailing whitespaces.
     "es3"           : true,     // This option tells JSHint that your code needs to adhere to ECMAScript 3 specification. Use this option if you need your program to be executable in older browsers—such as Internet Explorer 6/7/8/9—and other legacy JavaScript environments.
-    "unused"        : true,    // warns when you define and never use your variables. It is very useful for general code cleanup
+    "unused"        : false,    // warns when you define and never use your variables. It is very useful for general code cleanup
 
     // == Relaxing Options ================================================
     //

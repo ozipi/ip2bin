@@ -7,7 +7,7 @@
     "test-jshint": "jshint src/ip2bin.js test/ip2bin.js",
     "test-jscs": "node_modules/jscs/bin/jscs src/ip2bin.js test/ip2bin.js",
     "test-style": "npm run test-jshint && npm run test-jscs",
-    "test": "npm run test-jscs && make test"
+    "test": "npm run test-style && make test"
   },
   "repository": {
     "type": "git",
